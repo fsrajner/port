@@ -1,0 +1,16 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\bin\Debug\APplication9.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\MainWindow.baml
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\MainWindow.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\App.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9_MarkupCompile.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.g.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.Properties.Resources.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.csproj.GenerateResource.Cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\bin\Debug\APplication9.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\bin\Debug\APplication9.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\APplication9_MarkupCompile.lref
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\APplication9\APplication9\obj\Debug\App.baml

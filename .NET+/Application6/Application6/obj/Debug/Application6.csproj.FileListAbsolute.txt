@@ -1,0 +1,13 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\bin\Debug\Application6.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\bin\Debug\Application6.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\bin\Debug\Application6.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\MainWindow.baml
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\MainWindow.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\App.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6_MarkupCompile.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.g.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.Properties.Resources.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.csproj.GenerateResource.Cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application6\Application6\obj\Debug\Application6.pdb

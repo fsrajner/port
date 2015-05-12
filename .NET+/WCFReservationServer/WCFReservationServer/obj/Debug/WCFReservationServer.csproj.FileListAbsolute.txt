@@ -1,0 +1,5 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFReservationServer\WCFReservationServer\bin\Debug\WCFReservationServer.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFReservationServer\WCFReservationServer\bin\Debug\WCFReservationServer.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFReservationServer\WCFReservationServer\bin\Debug\WCFReservationServer.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFReservationServer\WCFReservationServer\obj\Debug\WCFReservationServer.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFReservationServer\WCFReservationServer\obj\Debug\WCFReservationServer.pdb

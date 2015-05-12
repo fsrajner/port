@@ -1,0 +1,34 @@
+﻿<Window x:Class="APplication9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:APplication9"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" Height="23" VerticalAlignment="Top" DockPanel.Dock="Top">
+            <Label>
+                Filter:
+            </Label>
+            <TextBox Name="txtFilter" Width="120"></TextBox>
+            <Button Click="Button_Click">
+                Filter
+            </Button>
+        </StackPanel>
+        <ListView Name="lvPersons" DockPanel.Dock="Left" HorizontalAlignment="Left" ItemsSource="{Binding Source={StaticResource persons}}">
+            <!--<ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="2" CornerRadius="2" BorderBrush="DarkSlateBlue">
+                        <TextBlock>    
+                             <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                             <LineBreak/>
+                             Age:
+                             <TextBlock Text="{Binding Age}"/>
+                        </TextBlock>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>-->
+        </ListView>
+        <Button Content="{Binding SelectedItem, ElementName=lvPersons}"/>
+            <!--<my:Person Name="Jack" Age="2" isMale="True"/>
+        </Button>-->
+    </DockPanel>
+</Window>

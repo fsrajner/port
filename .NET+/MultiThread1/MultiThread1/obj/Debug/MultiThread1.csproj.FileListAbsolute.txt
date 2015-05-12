@@ -1,0 +1,6 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\bin\Debug\MultiThread1.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\bin\Debug\MultiThread1.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\bin\Debug\MultiThread1.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\obj\Debug\MultiThread1.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\obj\Debug\MultiThread1.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\MultiThread1\MultiThread1\obj\Debug\MultiThread1.pdb

@@ -1,0 +1,5 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application2\Application2\bin\Debug\Application2.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application2\Application2\bin\Debug\Application2.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application2\Application2\bin\Debug\Application2.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application2\Application2\obj\Debug\Application2.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application2\Application2\obj\Debug\Application2.pdb

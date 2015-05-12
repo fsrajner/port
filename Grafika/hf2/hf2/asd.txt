@@ -1,0 +1,39 @@
+
+	void Init(Vector pos, Vector rot, Vector scale)
+	{
+		// source: http://inside.mines.edu/fs_home/gmurray/ArbitraryAxisRotation/
+
+		float x = pos.x;
+		float y = pos.y;
+		float z = pos.z;
+		float sinx = sinf(ToRadian(rot.x));
+		float siny = sinf(ToRadian(rot.y));
+		float sinz = sinf(ToRadian(rot.z));
+		float cosx = cosf(ToRadian(rot.x));
+		float cosy = cosf(ToRadian(rot.y));
+		float cosz = cosf(ToRadian(rot.z));
+		float scalex = scale.x;
+		float scaley = scale.y;
+		float scalez = scale.z;
+
+
+		matrix[0] = scalex*(cosy*cosz);
+		matrix[1] = scaley*(sinx*siny*cosz - cosx*sinz);
+		matrix[2] = scalez*(cosx*siny*cosz + sinx*sinz);
+		matrix[3] = x;
+		matrix[4] = scalex*(cosy*sinz);
+		matrix[5] = scaley*(cosx*cosz + sinx*siny*sinz);
+		matrix[6] = scalez*-(sinx*cosz + cosx*siny*sinz);
+		matrix[7] = y;
+		matrix[8] = scalex*(-siny);
+		matrix[9] = scaley*(sinx*cosy);
+		matrix[10] = scalez*cosx*cosy;
+		matrix[11] = z;
+		matrix[12] = 0;
+		matrix[13] = 0;
+		matrix[14] = 0;
+		matrix[15] = 1;
+
+
+
+	}

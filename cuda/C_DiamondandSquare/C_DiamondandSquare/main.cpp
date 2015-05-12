@@ -1,9 +1,6 @@
 // includes, system
 #include <iostream>
 #include <stdlib.h>
-#include "cv.h"
-#include "cxcore.h"
-#include "highgui.h"
 
 #include <chrono>
 
@@ -17,29 +14,26 @@
 ////////////////////////////////////////////////////////////////////////////////
 // declaration, forward
 
-
 ////////////////////////////////////////////////////////////////////////////////
 // Program main
 ////////////////////////////////////////////////////////////////////////////////
 int main(int argc, char **argv)
 {
 	// input data, size of texture
-	int len = 8193;
+	size_t len = 2049;
+	Array array{ len };
 
-	Array aray{ len };
-
-	CPUDaS<int> cpu{ len };
-	for (int i = 0; i < cpu.getNumberofSteps(); i++)
-	{
-		cpu.getnoise()[i] = (len / ((i * 2) - i + 1));
-	}
-	std::chrono::high_resolution_clock clock;
+	//CPUDaS<int> cpu{ len };
+	//for (int i = 0; i < cpu.getNumberofSteps(); i++)
+	//{
+	//	cpu.getnoise()[i] = (len / ((i * 2) - i + 1));
+	//}
 
 	
 	std::cout << "CPU START : \n";
 
 	std::chrono::system_clock::time_point start = std::chrono::system_clock::now();
-	cpu.traverse();
+	//cpu.traverse();
 	std::chrono::system_clock::time_point end = std::chrono::system_clock::now();
 
 	auto millis = std::chrono::duration_cast<std::chrono::milliseconds>(end-start).count();
@@ -48,7 +42,7 @@ int main(int argc, char **argv)
 	std::cout << "GPU recursive START : \n";
 
 	start = std::chrono::system_clock::now();
-	aray.Traverse(true);
+	//array.Traverse(true);
 	end = std::chrono::system_clock::now();
 
 	millis = std::chrono::duration_cast<std::chrono::milliseconds>(end - start).count();
@@ -57,21 +51,15 @@ int main(int argc, char **argv)
 	std::cout << "GPU START : \n";
 
 	start = std::chrono::system_clock::now();
-	aray.Traverse(false);
+	array.Traverse(false);
 	end = std::chrono::system_clock::now();
 
 	millis = std::chrono::duration_cast<std::chrono::milliseconds>(end - start).count();
 	std::cout << "GPU END : " << millis << '\n';
 
-	/*/
-	IplImage* im = cvLoadImage("desktop.png", 1);
-	CvSize c = cvGetSize(im);
-	int a = im->depth;
-	int b = im->nChannels;
-	
-	aray.createImage(im);
-	cvSaveImage("desktop.png", im);
-	*/
+
+
+	array.createImage();
 
     // cudaDeviceReset causes the driver to clean up all state. While
     // not mandatory in normal operation, it is good practice.  It is also

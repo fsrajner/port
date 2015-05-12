@@ -1,0 +1,6 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient\WCFClient\obj\Debug\WCFClient.pdb

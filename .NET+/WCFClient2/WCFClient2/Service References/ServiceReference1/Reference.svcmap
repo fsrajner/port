@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="33c874b1-523f-47a9-8be6-399893a94e44" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/RoomService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RoomService.disco" MetadataType="Disco" ID="c2b2f163-6b42-4052-a7c0-c9f6c70ad95a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/RoomService?disco" />
+    <MetadataFile FileName="RoomService.xsd" MetadataType="Schema" ID="e1f833c1-890a-4f1c-854b-440c1f7f24aa" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/RoomService?xsd=xsd1" />
+    <MetadataFile FileName="ReservationService.wsdl" MetadataType="Wsdl" ID="f7fd1401-9a9a-4f76-a117-87fa73423554" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/RoomService?wsdl" />
+    <MetadataFile FileName="RoomService1.xsd" MetadataType="Schema" ID="b1bbbc16-af89-4294-8842-64cd4f6b4e7c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/RoomService?xsd=xsd2" />
+    <MetadataFile FileName="RoomService2.xsd" MetadataType="Schema" ID="51169b65-cac1-4d1b-97c2-eb93ce90d0e1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/RoomService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

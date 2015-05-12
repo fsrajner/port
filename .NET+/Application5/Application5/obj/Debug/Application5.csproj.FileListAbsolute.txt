@@ -1,0 +1,9 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\bin\Debug\Application5.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\bin\Debug\Application5.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\bin\Debug\Application5.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.Properties.Resources.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.csproj.GenerateResource.Cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application5\Application5\obj\Debug\Application5.Form1.resources

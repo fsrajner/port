@@ -1,0 +1,10 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\Application4.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\Application4.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\Application4.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\obj\Debug\Application4.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\obj\Debug\Application4.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\obj\Debug\Application4.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\EntityFramework.dll
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\EntityFramework.xml
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application4\Application4\bin\Debug\EntityFramework.SqlServer.xml

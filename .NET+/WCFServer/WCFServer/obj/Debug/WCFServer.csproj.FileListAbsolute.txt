@@ -1,0 +1,6 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFServer\WCFServer\obj\Debug\WCFServer.pdb

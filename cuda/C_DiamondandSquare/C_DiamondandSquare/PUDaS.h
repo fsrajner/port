@@ -2,9 +2,6 @@
 #include <math.h>
 #include <random>
 #include <iostream>
-#include "cv.h"
-#include "cxcore.h"
-#include "highgui.h"
 
 
 	template <typename T>
@@ -38,11 +35,11 @@ public:
 
 	void seed();
 
-	void list(IplImage* im);
+	void list(FILE* im);
 
 	void traverse();
 
-	void setColor(IplImage* im, int x, int y, UCHAR r, UCHAR g, UCHAR b);
+	//void setColor(FILE* im, int x, int y, UCHAR r, UCHAR g, UCHAR b);
 private:
 	void square(int x, int y, int size, int currentdepth); // center position, and size of square
 	void diamond(int x, int y, int size, int currentdepth); // center position, and size of diamond
@@ -177,17 +174,17 @@ T CPUDaS<T>::average(T a, T b, T c, T d)
 }
 
 
-
+/*
 template <typename T>
-void CPUDaS<T>::setColor(IplImage* im, int x, int y, UCHAR r, UCHAR g, UCHAR b)
+void CPUDaS<T>::setColor(FILE* im, int x, int y, UCHAR r, UCHAR g, UCHAR b)
 {
 	im->imageData[y*im->widthStep + 3 * x + 2] = r;
 	im->imageData[y*im->widthStep + 3 * x + 1] = g;
 	im->imageData[y*im->widthStep + 3 * x] = b;
 }
-
+*/
 template <typename T>
-void CPUDaS<T>::list(IplImage* im)
+void CPUDaS<T>::list(FILE* im)
 {
 	for (int i = 0; i < size; i++)
 	{

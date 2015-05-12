@@ -1,0 +1,15 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\bin\Debug\Application8.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\bin\Debug\Application8.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\bin\Debug\Application8.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\MainWindow.baml
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\MainWindow.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\App.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8_Content.g.cs
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8_MarkupCompile.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.g.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.Properties.Resources.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.csproj.GenerateResource.Cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\obj\Debug\Application8.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\Application8\Application8\bin\Debug\video.wmv

@@ -64,12 +64,12 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WIN32;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>./;$(CudaToolkitDir)/include;../common/inc;C:\Program Files %28x86%29\OpenCV\cv\include;C:\Program Files %28x86%29\OpenCV\otherlibs\highgui;C:\Program Files %28x86%29\OpenCV\cxcore\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>./;$(CudaToolkitDir)/include;../common/inc;C:\Program Files %28x86%29\GnuWin32\include;G:\zlib-1.2.8</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>cudart_static.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;cv.lib;cxcore.lib;highgui.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>$(CudaToolkitLibDir);C:\Program Files %28x86%29\OpenCV\lib;</AdditionalLibraryDirectories>
+      <AdditionalDependencies>cudart_static.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;libpng.lib;zlibstat.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(CudaToolkitLibDir);C:\Program Files %28x86%29\GnuWin32\lib;G:\zlib-1.2.8\contrib\vstudio\vc11\x86\ZlibStatRelease</AdditionalLibraryDirectories>
       <OutputFile>$(OutDir)/C_DiamondandSquare.exe</OutputFile>
     </Link>
     <CudaCompile>
@@ -113,6 +113,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array.h" />
+    <ClInclude Include="png++\config.hpp" />
+    <ClInclude Include="png++\png.hpp" />
     <ClInclude Include="PUDaS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

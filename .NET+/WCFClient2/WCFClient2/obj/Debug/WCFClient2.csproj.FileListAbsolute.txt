@@ -1,0 +1,9 @@
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\bin\Debug\WCFClient2.exe.config
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.csprojResolveAssemblyReference.cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.Form1.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.Properties.Resources.resources
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.csproj.GenerateResource.Cache
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\bin\Debug\WCFClient2.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\bin\Debug\WCFClient2.pdb
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.exe
+C:\Users\h3ng3\Documents\Visual Studio 2013\Projects\.NET+\WCFClient2\WCFClient2\obj\Debug\WCFClient2.pdb
